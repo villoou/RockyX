@@ -1,0 +1,13 @@
+C:\Users\ville\source\repos\Rocky X\Rocky X\bin\Debug\Rocky X.exe
+C:\Users\ville\source\repos\Rocky X\Rocky X\bin\Debug\Rocky X.pdb
+C:\Users\ville\source\repos\Rocky X\Rocky X\bin\Debug\FastColoredTextBox.dll
+C:\Users\ville\source\repos\Rocky X\Rocky X\bin\Debug\WeAreDevs_API.dll
+C:\Users\ville\source\repos\Rocky X\Rocky X\obj\Debug\Rocky_X.Form1.resources
+C:\Users\ville\source\repos\Rocky X\Rocky X\obj\Debug\Rocky_X.Properties.Resources.resources
+C:\Users\ville\source\repos\Rocky X\Rocky X\obj\Debug\Rocky X.csproj.GenerateResource.cache
+C:\Users\ville\source\repos\Rocky X\Rocky X\obj\Debug\Rocky X.csproj.CoreCompileInputs.cache
+C:\Users\ville\source\repos\Rocky X\Rocky X\obj\Debug\Rocky X.csproj.CopyComplete
+C:\Users\ville\source\repos\Rocky X\Rocky X\obj\Debug\Rocky X.exe
+C:\Users\ville\source\repos\Rocky X\Rocky X\obj\Debug\Rocky X.pdb
+C:\Users\ville\source\repos\Rocky X\Rocky X\obj\Debug\Rocky_X.Options.resources
+C:\Users\ville\source\repos\Rocky X\Rocky X\obj\Debug\Rocky X.csproj.AssemblyReference.cache

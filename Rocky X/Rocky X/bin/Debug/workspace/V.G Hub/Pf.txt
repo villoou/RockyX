@@ -1,0 +1,1 @@
+{"Enabled":true,"Smoothness":10,"EspNames":true,"Boxes":true,"WallCheck":true,"FOV":1000,"AimPart":"Head","Orange":true,"Tracers":true,"Blue":true,"Delay":0.01,"Esp":true}
